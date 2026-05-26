@@ -5,7 +5,7 @@ langchain==0.3.9
 langchain-openai==0.2.10
 langchain-community==0.3.9
 langchain-text-splitters==0.3.2
-faiss-cpu==1.9.0
+faiss-cpu==1.14.2
 openai==1.57.0
 pydantic==2.10.3
 python-multipart==0.0.12
