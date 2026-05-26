@@ -1,4 +1,4 @@
-const API_BASE = "https://fde-financial-assistant.onrender.com/";
+const API_BASE = "https://fde-financial-assistant-backend.onrender.com";
 let isLoading = false;
 
 // ── Status check ──────────────────────────────────────────────────────────────
