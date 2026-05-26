@@ -1,4 +1,4 @@
-const API_BASE = "http://localhost:8000";
+const API_BASE = "https://fde-financial-assistant.onrender.com/";
 let isLoading = false;
 
 // ── Status check ──────────────────────────────────────────────────────────────
