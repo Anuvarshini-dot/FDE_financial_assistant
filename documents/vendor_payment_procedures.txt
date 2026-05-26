@@ -1,0 +1,99 @@
+VENDOR PAYMENT PROCEDURES & ACCOUNTS PAYABLE POLICY
+Version: 4.1 | Effective Date: January 1, 2025 | Approved by: CFO & Legal
+
+1. PURPOSE
+This document outlines the procedures for processing vendor payments, managing accounts payable,
+and ensuring compliance with corporate financial controls and procurement standards.
+
+2. VENDOR ONBOARDING REQUIREMENTS
+Before any payment can be processed, vendors must be registered in the Vendor Management System (VMS):
+
+Required Documentation:
+- Completed Vendor Registration Form (VRF-01)
+- W-9 form (domestic vendors) or W-8BEN (international vendors)
+- Certificate of Insurance (COI) — minimum $1M general liability
+- Bank account details via secure ACH Authorization Form
+- Signed Vendor Code of Conduct agreement
+- Business license or registration certificate
+
+Verification Process:
+- Finance team verifies vendor details within 5 business days
+- Legal reviews contracts above $50,000
+- New vendors are subject to KYC (Know Your Customer) screening
+- Vendors on government sanction lists will not be onboarded
+
+3. INVOICE SUBMISSION REQUIREMENTS
+All invoices must include:
+- Vendor name, address, and tax ID
+- Invoice number (unique per vendor)
+- Invoice date and payment due date
+- Itemized description of goods or services
+- Purchase Order (PO) number (mandatory for PO-based transactions)
+- Payment terms (e.g., Net 30, Net 60)
+- Bank details or payment instructions
+
+Submission Methods:
+- Electronic: invoices@company.com (preferred)
+- Vendor Portal: vendors.company.com
+- Physical mail: Finance Department, 3rd Floor
+
+4. PAYMENT APPROVAL WORKFLOW
+4.1 Purchase Order (PO) Based Payments
+Step 1: Invoice received and matched to PO in accounting system (3-way match: PO + receipt + invoice)
+Step 2: Discrepancies flagged to Procurement and vendor within 2 business days
+Step 3: Matched invoices auto-approved for payment per payment terms
+Step 4: Payment batch processed on Tuesday and Thursday of each week
+
+4.2 Non-PO Payments
+Step 1: Department submits Payment Request Form (PRF) with business justification
+Step 2: Approval thresholds apply:
+  - Up to $5,000: Department Manager approval
+  - $5,001–$25,000: VP/Director approval
+  - $25,001–$100,000: CFO approval
+  - Above $100,000: CFO + CEO approval
+Step 3: Finance validates vendor registration
+Step 4: Payment processed within 5 business days of full approval
+
+5. PAYMENT TERMS AND METHODS
+5.1 Standard Payment Terms
+- Default terms: Net 30 (payment within 30 days of invoice date)
+- Early payment discount: 2/10 Net 30 (2% discount if paid within 10 days)
+- Extended terms (Net 60, Net 90): Require CFO approval and contract clause
+
+5.2 Payment Methods
+- ACH/Bank Transfer: Preferred for all domestic vendors (no fee)
+- Wire Transfer: For international vendors or urgent payments (bank fees apply)
+- Corporate Check: Issued for vendors without ACH setup (additional 3-day processing)
+- Corporate Credit Card: For approved recurring subscriptions under $5,000/month
+- Cash payments: NOT permitted under any circumstances
+
+6. INTERNATIONAL VENDOR PAYMENTS
+- All international payments processed via wire transfer
+- Currency: Paid in contract currency; exchange rate applied on payment date
+- Additional documentation: Vendor's bank SWIFT code and IBAN required
+- Regulatory: OFAC screening performed before every international payment
+- Processing time: 5–7 business days from approval
+- Wire fees: Charged to requesting department's cost center
+
+7. DISPUTE RESOLUTION
+- Invoice disputes must be raised within 15 days of invoice receipt
+- Finance logs dispute in accounts payable system, notifying vendor within 2 business days
+- Target resolution: 10 business days for domestic, 15 for international disputes
+- Partial payments permitted for undisputed portions of invoices
+
+8. VENDOR PAYMENT HOLDS
+Payments may be placed on hold for:
+- Missing or incorrect vendor documentation
+- Invoice discrepancies not resolved
+- Active legal or compliance investigation
+- Vendor on government sanctions list
+- Breach of Vendor Code of Conduct
+
+Vendors notified of hold within 2 business days. Finance Director approval required to lift holds.
+
+9. RECORD KEEPING
+- All payment records retained for 7 years per regulatory requirements
+- Electronic records stored in the Finance Document Management System (FDMS)
+- Physical records stored in the Finance Archive Room (access restricted)
+
+Contact: accounts-payable@company.com | AP Helpdesk ext. 4600

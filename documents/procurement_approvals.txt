@@ -1,0 +1,107 @@
+PROCUREMENT APPROVAL POLICY & PURCHASING GUIDELINES
+Version: 3.0 | Effective Date: January 1, 2025 | Approved by: CFO & COO
+
+1. PURPOSE AND SCOPE
+This policy governs the procurement of goods and services by all company departments. It defines
+approval authorities, required documentation, and purchasing thresholds to ensure fiscal responsibility
+and regulatory compliance.
+
+2. PROCUREMENT PRINCIPLES
+- All purchases must have a clear, documented business purpose
+- Value for money must be demonstrated (competitive quotes for significant purchases)
+- Preferred vendors from the Approved Vendor List (AVL) should be prioritized
+- Personal purchases using company funds are strictly prohibited
+- Purchases must align with the department's approved annual budget
+
+3. APPROVAL THRESHOLDS AND AUTHORITIES
+
+3.1 Goods and Standard Services
+- Up to $1,000: Employee self-approval with manager notification (P-card use permitted)
+- $1,001–$5,000: Direct manager/supervisor approval required
+- $5,001–$25,000: Department Head/Director approval + 3 competitive quotes required
+- $25,001–$100,000: VP approval + formal RFQ/RFP process + Finance review
+- $100,001–$500,000: CFO approval + formal RFP + Legal contract review
+- Above $500,000: Board/Executive Committee approval required
+
+3.2 IT and Technology Purchases
+- All IT purchases regardless of amount: IT Director pre-approval required for compatibility
+- Software licenses: IT Security review mandatory for cloud/SaaS tools
+- Hardware: IT Asset Management team coordinates all hardware procurement
+- IT-related purchases above $10,000: CTO approval in addition to financial thresholds
+
+3.3 Professional Services (Consultants, Lawyers, Agencies)
+- Up to $10,000: Department Head approval
+- $10,001–$50,000: VP + Finance approval, SOW required
+- Above $50,000: CFO approval + Legal review of engagement contract
+
+4. REQUIRED DOCUMENTATION
+
+4.1 Purchase Requisition (PR)
+Required for all purchases above $1,000. Must include:
+- Detailed description of goods/services needed
+- Business justification
+- Budget line item reference
+- Estimated cost and preferred vendor (if applicable)
+- Required delivery date
+
+4.2 Purchase Order (PO)
+Issued by Finance/Procurement after PR approval. Required for:
+- All purchases above $2,500
+- All recurring vendor relationships
+- All purchases with delivery lead time > 7 days
+
+4.3 Competitive Quotes
+Required based on value:
+- $5,000–$25,000: Minimum 3 written quotes from different vendors
+- Above $25,000: Formal Request for Quotation (RFQ) or Request for Proposal (RFP) process
+- Sole-source justification form required if competitive quotes not obtained
+- Quote comparison documented on Vendor Selection Form (VSF)
+
+4.4 Contracts
+Required for:
+- Any engagement above $10,000
+- Recurring services regardless of amount
+- Any agreement with IP, data privacy, or liability implications
+- All contracts reviewed by Legal if above $50,000 or contain non-standard terms
+
+5. PROCUREMENT PROCESS FLOW
+Step 1: Need identification and budget check
+Step 2: Submit Purchase Requisition via Procurement Portal (procure.company.com)
+Step 3: Manager approval in system
+Step 4: Finance validates budget availability
+Step 5: Procurement team issues RFQ/RFP (if required)
+Step 6: Vendor selection and approval
+Step 7: Contract negotiation (if applicable)
+Step 8: Purchase Order issued
+Step 9: Goods/services received and verified
+Step 10: Invoice matched to PO — payment initiated
+
+6. CORPORATE PURCHASE CARD (P-CARD) POLICY
+- P-Cards issued to employees with frequent small purchasing needs (subject to VP approval)
+- Single transaction limit: $1,000
+- Monthly spending limit: $5,000 (standard); up to $10,000 with VP approval
+- Prohibited P-Card purchases: Cash advances, personal items, travel (use Travel Portal), gift cards
+- Monthly reconciliation required within 5 business days of statement close
+- Receipts required for all transactions above $25
+- Misuse results in immediate card revocation and potential disciplinary action
+
+7. EMERGENCY PURCHASES
+- Genuine operational emergencies: VP-level authorization by phone/email permitted
+- Emergency purchases above $10,000: CFO verbal approval + written confirmation within 24 hours
+- Retroactive PO creation required within 2 business days for emergency purchases
+- Frequency of emergency purchases tracked — excessive use triggers process review
+
+8. PROHIBITED PURCHASING PRACTICES
+- Splitting purchases to avoid approval thresholds (purchase splitting) — grounds for termination
+- Purchasing from vendors with undisclosed personal relationships (conflict of interest)
+- Committing company funds without proper authorization
+- Accepting kickbacks, gifts above $50, or improper benefits from vendors
+- Using personal funds expecting reimbursement for controlled purchases (above $500)
+
+9. BUDGET COMPLIANCE
+- All purchase requests validated against approved department budget
+- Purchases exceeding budget require budget amendment approval from Finance
+- Departments notified monthly of budget consumption via Finance Dashboard
+- Year-end purchase cutoff: December 15 for current fiscal year expense recognition
+
+Contact: procurement@company.com | Procurement Helpdesk ext. 4800

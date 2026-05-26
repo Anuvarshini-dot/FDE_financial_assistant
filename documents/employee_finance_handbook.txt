@@ -1,0 +1,159 @@
+EMPLOYEE FINANCE HANDBOOK
+A Guide to Financial Policies, Tools, and Resources
+Version: 5.0 | Effective Date: January 1, 2025 | Issued by: Finance Department
+
+WELCOME FROM THE CFO
+This handbook is your go-to reference for understanding how our company manages finances and
+what you need to know as an employee to navigate financial processes confidently. Our Finance team
+is here to support you — reach out anytime.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 1: YOUR PAY AND PAYROLL
+
+1.1 Pay Schedule
+- Employees are paid bi-weekly (every two weeks) on Fridays
+- 2025 payroll calendar available on the HR Portal (hr.company.com)
+- Direct deposit is mandatory — paper checks issued only in exceptional cases
+
+1.2 Viewing Your Pay Stub
+- Access pay stubs via the Employee Self-Service Portal (ess.company.com)
+- Stubs available 2 business days before pay date
+- Includes: gross pay, deductions, taxes withheld, net pay, and YTD totals
+
+1.3 Payroll Deductions
+Standard deductions from your paycheck:
+- Federal, state, and local income taxes (per your W-4/state forms)
+- Social Security (6.2%) and Medicare (1.45%)
+- Health, dental, vision insurance premiums
+- 401(k) / retirement contributions (voluntary)
+- Flexible Spending Account (FSA) contributions
+
+1.4 Pay Corrections
+- Payroll errors reported to HR within 10 days of pay date
+- Corrections processed in the next payroll cycle
+- Off-cycle payments approved only for errors above $500
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 2: EXPENSE MANAGEMENT
+
+2.1 Finance Portal Overview
+All expense claims submitted through the Finance Portal (finance.company.com):
+- Log in with your company SSO credentials
+- Create new expense report → add line items → attach receipts → submit for approval
+- Status tracked in real-time; email notifications at each stage
+
+2.2 Expense Submission Deadlines
+- Standard expenses: Submit within 30 days of the expense date
+- Travel expenses: Submit within 10 business days of return
+- Year-end (December): All expenses submitted by December 20
+
+2.3 Receipt Requirements
+- Digital receipts accepted (PDF, JPG, PNG)
+- Required for all expenses above $25
+- Itemized receipts required for all meals
+- Hotel folios required (showing room rate and itemized charges)
+
+2.4 Common Expense Categories
+- Meals & Entertainment: Business meals, team lunches, client dinners
+- Travel: Flights, hotels, ground transport, parking
+- Office Supplies: Items for home office or in-office use
+- Professional Development: Training, conferences, books, certifications
+- Communications: Business phone, internet, subscriptions
+- Client Gifts: Gifts to clients (see Gift Policy limits)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 3: CORPORATE CARDS AND SPENDING TOOLS
+
+3.1 Corporate Credit Card
+- Available to employees with regular business travel or purchasing needs
+- Apply via Finance Portal with manager approval
+- Monthly statements reconciled within 5 business days
+- Spend limits: $5,000/month standard; higher limits require VP approval
+
+3.2 Petty Cash
+- Petty cash funds available in select offices for incidental expenses under $50
+- Petty cash custodian logs all disbursements; monthly reconciliation required
+- Department heads accountable for petty cash fund in their area
+
+3.3 Expense Advance
+- Available for anticipated expenses above $500
+- Request via Finance Portal with business justification
+- Reconciled within 15 days of incurring the expense
+- Unspent advances returned to Finance promptly
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 4: BUDGET AND FINANCIAL PLANNING
+
+4.1 Annual Budget Process
+- Budget cycle runs October–November for the following fiscal year
+- Department heads submit budget proposals via the Budget Planning Tool
+- Finance consolidates and presents to leadership for approval by December 15
+- Approved budgets communicated to departments by January 15
+
+4.2 Budget Monitoring
+- Department heads receive monthly Budget vs. Actual reports from Finance
+- Finance Dashboard available for real-time spend tracking (dashboard.finance.company.com)
+- Variances above 15% require written explanation to Finance Director
+
+4.3 Budget Transfers
+- Transfers within the same cost center: Department head approval
+- Transfers between cost centers: Finance Director approval
+- Emergency budget increases: CFO approval with business case
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 5: FINANCIAL CONTROLS AND COMPLIANCE
+
+5.1 Segregation of Duties
+- No single employee can both approve and process a financial transaction
+- Finance staff rotate responsibilities periodically to maintain integrity
+- Managers cannot approve their own expense claims
+
+5.2 Fraud Prevention
+- Report suspected fraud immediately to the Ethics Hotline (ethics@company.com or ext. 4000)
+- Anonymous reporting available — no retaliation for good-faith reports
+- Finance conducts periodic internal audits of expense reports and vendor payments
+
+5.3 Conflict of Interest
+- Employees must disclose any personal relationships with vendors or clients
+- Employees involved in a vendor selection cannot have financial interest in that vendor
+- Annual Conflict of Interest Declaration required from all employees
+
+5.4 Data Privacy in Financial Transactions
+- Financial data classified as Confidential — share only on need-to-know basis
+- Never email sensitive financial information unencrypted
+- Payment card information (PCI data) handled only by authorized Finance staff
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 6: KEY FINANCE CONTACTS AND RESOURCES
+
+Finance Helpdesk: ext. 4400 | finance-help@company.com
+Accounts Payable: ext. 4600 | accounts-payable@company.com
+Payroll Team: ext. 4410 | payroll@company.com
+Tax Team: ext. 4700 | tax-compliance@company.com
+Procurement: ext. 4800 | procurement@company.com
+Travel Desk: ext. 4500 | travel@company.com
+
+FINANCE PORTAL: finance.company.com
+TRAVEL PORTAL: travel.company.com
+PROCUREMENT PORTAL: procure.company.com
+EMPLOYEE SELF-SERVICE: ess.company.com
+FINANCE DASHBOARD: dashboard.finance.company.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 7: QUICK REFERENCE — APPROVAL LIMITS SUMMARY
+
+Transaction Type              | Up to $1K     | $1K-$10K    | $10K-$100K  | Above $100K
+------------------------------|---------------|-------------|-------------|-------------
+Expense Reimbursements        | Mgr           | Dept Head   | Finance Dir | CFO
+Travel (Domestic)             | Mgr           | Dept Head   | VP          | CFO
+Travel (International)        | Mgr           | VP          | CFO         | CEO
+Vendor Payments (PO-based)    | Auto          | Auto        | Auto        | CFO review
+Vendor Payments (Non-PO)      | Dept Mgr      | VP/Dir      | CFO         | CFO + CEO
+Procurement/Purchasing        | Employee      | Mgr/Dir     | VP + CFO    | Board

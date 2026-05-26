@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Finance Policy Assistant</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="layout">
+
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <div class="logo">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M12 2L2 7l10 5 10-5-10-5z"/>
+            <path d="M2 17l10 5 10-5"/>
+            <path d="M2 12l10 5 10-5"/>
+          </svg>
+        </div>
+        <div>
+          <h1>Finance Assistant</h1>
+          <p class="subtitle">AI-Powered Policy Advisor</p>
+        </div>
+      </div>
+
+      <div class="sidebar-section">
+        <p class="section-label">Available Documents</p>
+        <ul class="doc-list">
+          <li><span class="doc-icon">📄</span>Reimbursement Policy</li>
+          <li><span class="doc-icon">✈️</span>Travel Expense Rules</li>
+          <li><span class="doc-icon">🏢</span>Vendor Payment Procedures</li>
+          <li><span class="doc-icon">📊</span>Tax Compliance Guidelines</li>
+          <li><span class="doc-icon">🛒</span>Procurement Approvals</li>
+          <li><span class="doc-icon">📚</span>Employee Finance Handbook</li>
+        </ul>
+      </div>
+
+      <div class="sidebar-section">
+        <p class="section-label">Sample Questions</p>
+        <div class="sample-questions">
+          <button class="sample-btn" onclick="useSample(this)">What is the meal reimbursement limit?</button>
+          <button class="sample-btn" onclick="useSample(this)">What approvals are needed for vendor payments above $25,000?</button>
+          <button class="sample-btn" onclick="useSample(this)">Can I fly business class internationally?</button>
+          <button class="sample-btn" onclick="useSample(this)">What documents are needed for procurement requests?</button>
+          <button class="sample-btn" onclick="useSample(this)">How do I submit an expense report?</button>
+        </div>
+      </div>
+
+      <div class="sidebar-footer">
+        <div class="status-dot" id="statusDot"></div>
+        <span id="statusText">Connecting...</span>
+      </div>
+    </aside>
+
+    <!-- Main chat area -->
+    <main class="chat-area">
+      <header class="chat-header">
+        <div>
+          <h2>Finance Policy Q&amp;A</h2>
+          <p class="chat-subtitle">Ask any question about company finance policies</p>
+        </div>
+        <button class="clear-btn" onclick="clearChat()" title="Clear conversation">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M3 6h18M8 6V4h8v2M19 6l-1 14H6L5 6"/>
+          </svg>
+          Clear
+        </button>
+      </header>
+
+      <div class="messages" id="messages">
+        <div class="welcome-state" id="welcomeState">
+          <div class="welcome-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+              <circle cx="12" cy="12" r="10"/>
+              <path d="M12 6v6l4 2"/>
+            </svg>
+          </div>
+          <h3>How can I help you today?</h3>
+          <p>Ask me anything about reimbursements, travel, vendor payments, procurement, or tax compliance.</p>
+        </div>
+      </div>
+
+      <div class="input-area">
+        <div class="input-wrapper">
+          <textarea
+            id="queryInput"
+            placeholder="Ask a finance policy question..."
+            rows="1"
+            onkeydown="handleKey(event)"
+            oninput="autoResize(this)"
+          ></textarea>
+          <button class="send-btn" id="sendBtn" onclick="sendQuery()">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <line x1="22" y1="2" x2="11" y2="13"/>
+              <polygon points="22 2 15 22 11 13 2 9 22 2"/>
+            </svg>
+          </button>
+        </div>
+        <p class="input-hint">Answers are grounded in company finance policy documents.</p>
+      </div>
+    </main>
+
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

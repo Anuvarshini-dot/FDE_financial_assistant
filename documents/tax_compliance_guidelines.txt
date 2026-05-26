@@ -1,0 +1,91 @@
+TAX COMPLIANCE GUIDELINES FOR EMPLOYEES AND DEPARTMENTS
+Version: 2.5 | Effective Date: January 1, 2025 | Approved by: CFO & Tax Counsel
+
+1. PURPOSE
+These guidelines ensure that all employees, departments, and contractors comply with applicable
+federal, state, and local tax laws, and internal tax reporting obligations.
+
+2. EMPLOYEE TAX DOCUMENTATION
+
+2.1 New Employee Requirements
+All new employees must submit within their first week:
+- Completed W-4 (Employee Withholding Certificate) — updated version required
+- State tax withholding form (varies by work state)
+- Direct deposit authorization form
+- I-9 Employment Eligibility Verification
+
+2.2 Annual Tax Updates
+- W-2 forms issued by January 31 each year for prior tax year
+- 1099 forms issued to contractors receiving $600+ in the prior year
+- Employees should review W-4 annually, especially after life events (marriage, new dependent)
+
+3. CONTRACTOR AND FREELANCER TAX RULES
+- Independent contractors paid $600+ in a calendar year receive IRS Form 1099-NEC
+- Contractors must submit W-9 before first payment
+- Non-US contractors submit W-8BEN (individuals) or W-8BEN-E (entities)
+- Backup withholding (24%) applies if contractor fails to provide valid TIN
+- Contractors are NOT employees — no benefits, payroll taxes, or workers' compensation apply
+
+4. BUSINESS EXPENSE TAX IMPLICATIONS
+4.1 Taxable vs. Non-Taxable Reimbursements
+Non-taxable (not included in income):
+- Business travel expenses (accountable plan reimbursements with receipts)
+- Meals with documented business purpose
+- Professional development under qualified education assistance ($5,250 limit/year)
+- De minimis fringe benefits (occasional small perks)
+
+Taxable (included in W-2 income):
+- Personal use of company vehicles (must be reported)
+- Moving expense reimbursements (post-2017 tax reform)
+- Employer-paid athletic club memberships
+- Cash gifts or bonuses above $25 per occasion
+- Reimbursements without proper documentation (non-accountable plan)
+
+4.2 Gift and Entertainment Tax Rules
+- Business gifts to clients: Deductible up to $25 per recipient per year
+- Meals with clients (50% deductible): Require business purpose documentation
+- Entertainment expenses: Generally NOT deductible under current tax law
+- Employee recognition gifts: Tax-free up to $400 per year (tangible property only)
+
+5. SALES TAX COMPLIANCE
+- Purchases must include applicable sales tax unless a valid exemption certificate is on file
+- Tax-exempt purchases require a completed Exemption Certificate (Form ST-120 or state equivalent)
+- Departments must NOT request vendors to omit sales tax without a valid exemption
+- Finance maintains the official list of tax-exempt states and categories
+
+6. PAYROLL TAX OBLIGATIONS
+- FICA taxes (Social Security 6.2% + Medicare 1.45%) withheld from all employee wages
+- Additional Medicare tax (0.9%) withheld for wages exceeding $200,000
+- Federal income tax withheld based on W-4 elections
+- State and local income taxes withheld per employee's work location
+- Employer portion of FICA matched by company
+
+7. INTERNATIONAL TAX CONSIDERATIONS
+7.1 Foreign Travel and Per Diem
+- IRS per diem rates for foreign travel published annually — refer to IRS Publication 1542
+- Excess per diem above IRS rates is taxable income
+
+7.2 Expatriate and Cross-Border Employees
+- Employees on international assignments must consult with Tax team before relocation
+- Tax equalization agreements available for long-term international assignments
+- Foreign tax credits may apply — contact Tax team for individual analysis
+- Employees working remotely from foreign countries may create tax nexus — must notify HR/Tax
+
+7.3 Transfer Pricing
+- All intercompany transactions must comply with arm's-length transfer pricing rules
+- Transfer pricing documentation maintained by Tax team
+- Cross-border service agreements require Tax team review
+
+8. TAX AUDIT SUPPORT
+- Employees must retain business expense records for minimum 7 years
+- Tax team must be immediately notified of any tax authority inquiries or audits
+- Do NOT respond to tax authority notices without consulting the Tax team
+- All subpoenas or legal notices forwarded to Legal and Tax teams immediately
+
+9. REPORTABLE TRANSACTIONS
+Employees must report to the Tax team:
+- Any transaction exceeding $10,000 in cash (Bank Secrecy Act)
+- Foreign bank accounts with balances exceeding $10,000 at any point in the year (FBAR requirement)
+- Significant unusual transactions that may have tax implications
+
+Contact: tax-compliance@company.com | Tax Team ext. 4700

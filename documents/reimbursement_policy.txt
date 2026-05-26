@@ -1,0 +1,71 @@
+EMPLOYEE REIMBURSEMENT POLICY
+Version: 3.2 | Effective Date: January 1, 2025 | Approved by: CFO
+
+1. PURPOSE AND SCOPE
+This policy governs reimbursement of expenses incurred by employees in the course of conducting
+company business. It applies to all full-time, part-time, and contract employees across all departments.
+
+2. GENERAL REIMBURSEMENT LIMITS
+
+2.1 Meal Expenses
+- Breakfast: Up to $20 per person
+- Lunch: Up to $35 per person
+- Dinner: Up to $60 per person
+- Daily meal cap (all meals combined): $100 per day
+- Client entertainment meals: Up to $150 per person (requires manager pre-approval)
+
+2.2 Local Transportation
+- Taxi/rideshare (Uber, Lyft): Reimbursed at actual cost with receipt
+- Personal vehicle mileage: $0.67 per mile (IRS standard rate, updated annually)
+- Parking fees: Reimbursed at actual cost, up to $30 per day in metro areas
+- Public transportation: Reimbursed at actual cost with receipt
+
+2.3 Communication Expenses
+- Mobile phone business use: Up to $50 per month
+- Internet for remote work: Up to $60 per month with documented business need
+- International roaming charges: Up to $100 per trip with prior approval
+
+3. APPROVAL THRESHOLDS
+- Expenses up to $500: Direct manager approval required
+- Expenses $500–$2,000: Department head approval required
+- Expenses above $2,000: CFO or Finance Director approval required
+- Emergency expenses above $5,000: CEO approval required
+
+4. SUBMISSION REQUIREMENTS
+- All reimbursement claims must be submitted within 30 calendar days of the expense date
+- Late submissions (31–60 days) require department head justification
+- Claims older than 60 days will not be reimbursed without CFO exception
+- Original receipts are required for all expenses above $25
+- Itemized receipts required for all meal expenses regardless of amount
+- Electronic receipts are accepted in PDF or image format
+
+5. NON-REIMBURSABLE EXPENSES
+The following expenses will NOT be reimbursed:
+- Personal entertainment, gym memberships, or personal subscriptions
+- Fines, penalties, or traffic violations
+- Alcohol purchased without client entertainment context
+- Spouse or family member travel expenses
+- Expenses related to personal days taken during business trips
+- Luxury upgrades (business class without approval, luxury hotels above policy rate)
+- Lost or stolen cash or personal items
+- Expenses without supporting receipts above $25
+
+6. REIMBURSEMENT PROCESS
+Step 1: Employee submits expense claim via the Finance Portal (finance.company.com)
+Step 2: Supporting receipts uploaded as attachments
+Step 3: Direct manager receives notification for approval
+Step 4: Finance team reviews within 5 business days
+Step 5: Approved amounts processed in the next bi-weekly payroll cycle
+Step 6: Employee receives email confirmation with payment details
+
+7. SPECIAL CIRCUMSTANCES
+- Home office setup: One-time allowance of $500 for remote employees (approved by HR and Finance)
+- Professional development: Up to $1,500 per year per employee (separate Education Policy applies)
+- Relocation expenses: Covered under separate Relocation Policy
+
+8. DISPUTES AND EXCEPTIONS
+Disputed reimbursements should be raised with the Finance team within 10 business days of the
+decision. Exceptions to this policy require written approval from the CFO. All exceptions are logged
+and reviewed quarterly by the Finance Governance Committee.
+
+Contact: finance-reimbursements@company.com | Finance Helpdesk ext. 4400
